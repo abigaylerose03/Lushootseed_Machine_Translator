@@ -1,0 +1,455 @@
+English 		ləšucid
+Salmon		    sʔuladxʷ
+Smoked salmon   talc̓
+Pastry  	    səpləl
+fry bread  	    c̓ix̌ səpləl
+salal berries   t̕aqa
+Salmon berries  tagʷəd
+Black berries   gʷədbixʷ
+Strawberries    sčiʔyu
+Huckleberries   st̕ixʷib
+Jam  kupiɬ
+Douglas fir tea  sčəbid tii
+Tea              tii
+Kenyan tea       kilidyaga tii
+Spiced kenyan tea   kilidyaga basala tii
+Jasmine tea       ǰasmid  tii
+Coffee            kupi
+Milk              sqəbu
+Sugar             šukʷə
+Water             qʷuʔ
+Can I get the salmon?  gʷəʔabšic čəxʷ ʔu ti sʔuladxʷ
+Can I get the salmon with a plain pastry?  gʷəʔabšic čəxʷ ʔu ti sʔuladxʷ yəxʷ ti səpləl
+Can I get the salmon with a plain pastry and berries? gʷəʔabšic čəxʷ ʔu sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+Can I get smoked Salmon?  gʷəʔabšic čəxʷ ʔu ti talc̓
+Can I get the smoked salmon with a plain pastry?   gʷəʔabšic čəxʷ ʔu ti talc̓ yəxʷ ti səpləl
+Can I get smoked salmon with a plain pastry and berries?  gʷəʔabšic čəxʷ ʔu ti talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+Can I get fry-bread? gʷəʔabšic čəxʷ ʔu ti c̓ix̌ səpləl
+Can I get fry-bread with berry jam? gʷəʔabšic čəxʷ ʔu ti c̓ix̌ səpləl ʔə kʷi kupiɬ
+Can I get a plain pastry? gʷəʔabšic čəxʷ ʔu ti dəč̓u səpləl
+Can I get two plain pastries?  gʷəʔabšic čəxʷ ʔu ti sali səpləl
+Can I get three plain pastries? gʷəʔabšic čəxʷ ʔu ti ɬixʷ səpləl
+Can I get four plain pastries? gʷəʔabšic čəxʷ ʔu ti buus səpləl
+Can I get five plain pastries? gʷəʔabšic čəx ʔu ti cəlac səpləl
+Can I get six plain pastries? gʷəʔabšic čəxʷ ʔu ti dᶻəlači səpləl
+Can I get seven plain pastries? gʷəʔabšic čəxʷ ʔu ti c̓ukʷs səpləl
+Can I get eight plain pastries? gʷəʔabšic čəxʷ ʔu ti təqači səpləl
+Can I get nine plain pastries? gʷəʔabšic čəxʷ ʔu ti x̌ʷəl səpləl
+Can I get ten plain pastries? gʷəʔabšic čəxʷ ʔu ti padac səpləl
+Can I get some salmonberry jam? gʷəʔabšic čəxʷ ʔu kʷi stagʷəd kupiɬ
+Can I get some black berry jam? gʷəʔabšic čəxʷ ʔu kʷi gʷədbixʷ kupiɬ
+Can I get some strawberry jam? gʷəʔabšic čəxʷ ʔu kʷi sčiʔyu kupiɬ
+Can I get some huckleberry jam? gʷəʔabšic čəxʷ ʔu kʷi st̕ixʷib kupiɬ
+Can I get some salal berry jam? gʷəʔabšic čəxʷ ʔu kʷi t̕aqa kupiɬ
+Can I get some berry jam? gʷəʔabšic čəxʷ ʔu kʷi kupiɬ
+Can I get some douglas fir tea? gʷəʔabšic čəxʷ ʔu ti sčəbid tii
+Can I get some Kenyan tea? gʷəʔabšic čəxʷ ʔu ti kilidyada tii
+Can I get some spiced Kenyan tea? gʷəʔabšic čəxʷ ʔu ti kilidyaga basala tii
+Can I get some jasmine tea? gʷəʔabšic čəxʷ ʔu ti ǰasmid tii
+Can I get some cold black coffee? gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ x̌ibəč kupi
+Can I get some hot black coffee? gʷəʔabšic čəxʷ ʔu ti x̌ibəč kupi səsq̓ʷəl
+Can I get some cold coffee with milk? gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+Can I get some hot coffee with milk? gʷəʔabšic čəxʷ ʔu ti kupi səsq̓ʷəl yəxʷ ti sqəbu
+Can I get some cold coffee with milk and sugar?  gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can I get some cold black coffee with sugar?  gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+Can I get some hot coffee with milk and sugar? gʷəʔabšic čəxʷ ʔu ti kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can I get some hot black coffee with sugar?  gʷəʔabšic čəxʷ ʔu ti x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+Can I get some cold milk?  gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ sqəbu
+Can I get some hot milk? gʷəʔabšic čəxʷ ʔu ti sqəbu səsq̓ʷəl
+Can I get some milk?  gʷəʔabšic čəxʷ ʔu ti sqəbu
+Can I get some hot water? gʷəʔabšic čəxʷ ʔu ti qʷuʔ səsq̓ʷəl
+Can I get some hot water with lemon? gʷəʔabšic čəxʷ ʔu ti qʷuʔ səsq̓ʷəl yəxʷ ti limən
+Can I get some hot water with lemon and honey?  gʷəʔabšic čəxʷ ʔu ti qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+Can I get some cold water?  gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ qʷuʔ
+Can I get some cold water with lemon?  gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+Can I get some cold water with lemon and honey?  gʷəʔabšic čəxʷ ʔu ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+Can I get some water?  gʷəʔabšic čəxʷ ʔu ti qʷuʔ
+
+
+Can I get some more salmon?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa sʔuladxʷ
+Can I get some more salmon with a plain pastry?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa sʔuladxʷ yəxʷ ti səpləl
+Can I get some more salmon with a plain pastry and berries? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+Can I get some more smoked Salmon?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  talc̓
+Can I get some more smoked salmon with a plain pastry?   gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  talc̓ yəxʷ ti səpləl
+Can I get some more smoked salmon with a plain pastry and berries?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+Can I get some more fry-bread? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  c̓ix̌ səpləl
+Can I get some more  fry-bread with berry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  c̓ix̌ səpləl ʔə kʷi kupiɬ
+Can I get some plain pastries? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  dəč̓u səpləl
+Can I get some more salmonberry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  stagʷəd kupiɬ
+Can I get some more black berry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  gʷədbixʷ kupiɬ
+Can I get some more strawberry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  sčiʔyu kupiɬ
+Can I get some more huckleberry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  st̕ixʷib kupiɬ
+Can I get some more salal berry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  t̕aqa kupiɬ
+Can I get some more berry jam? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  kupiɬ
+Can I get some more douglas fir tea? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  sčəbid tii
+Can I get some more Kenyan tea? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  kilidyada tii
+Can I get some more spiced Kenyan tea? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  kilidyaga basala tii
+Can I get some more jasmine tea? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ǰasmid tii
+Can I get some more cold black coffee? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ x̌ibəč kupi
+Can I get some more hot black coffee? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  x̌ibəč kupi səsq̓ʷəl
+Can I get some more cold coffee with milk? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+Can I get some more hot coffee with milk? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  kupi səsq̓ʷəl yəxʷ ti sqəbu
+Can I get some more cold coffee with milk and sugar?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can I get some more cold black coffee with sugar?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+Can I get some more hot coffee with milk and sugar? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can I get some more hot black coffee with sugar?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+Can I get some more cold milk?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ sqəbu
+Can I get some more hot milk? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  sqəbu səsq̓ʷəl
+Can I get some more milk?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  sqəbu
+Can I get some more hot water? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ səsq̓ʷəl
+Can I get some more hot water with lemon? gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ səsq̓ʷəl yəxʷ ti limən
+Can I get some more hot water with lemon and honey?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+Can I get some more cold water?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ qʷuʔ
+Can I get some more cold water with lemon?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+Can I get some more cold water with lemon and honey?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+Can I get some more water?  gʷəʔabšic čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ
+
+
+Can we get the salmon?  gʷəʔabšibuɬ čəxʷ ʔu ti sʔuladxʷ
+Can we get the salmon with a plain pastry?  gʷəʔabšibuɬ čəxʷ ʔu ti sʔuladxʷ yəxʷ ti səpləl
+Can we get the salmon with a plain pastry and berries? gʷəʔabšibuɬ čəxʷ ʔu sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+Can we get smoked Salmon?  gʷəʔabšibuɬ čəxʷ ʔu ti talc̓
+Can we get the smoked salmon with a plain pastry?   gʷəʔabšibuɬ čəxʷ ʔu ti talc̓ yəxʷ ti səpləl
+Can we get smoked salmon with a plain pastry and berries?  gʷəʔabšibuɬ čəxʷ ʔu ti talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+Can we get fry-bread? gʷəʔabšibuɬ čəxʷ ʔu ti c̓ix̌ səpləl
+Can we get fry-bread with berry jam? gʷəʔabšibuɬ čəxʷ ʔu ti c̓ix̌ səpləl ʔə kʷi kupiɬ
+Can we get a plain pastry? gʷəʔabšibuɬ čəxʷ ʔu ti dəč̓u səpləl
+Can we get two plain pastries?  gʷəʔabšibuɬ čəxʷ ʔu ti sali səpləl
+Can we get three plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti ɬixʷ səpləl
+Can we get four plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti buus səpləl
+Can we get five plain pastries? gʷəʔabšibuɬ čəx ʔu ti cəlac səpləl
+Can we get six plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti dᶻəlači səpləl
+Can we get seven plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti c̓ukʷs səpləl
+Can we get eight plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti təqači səpləl
+Can we get nine plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti x̌ʷəl səpləl
+Can we get ten plain pastries? gʷəʔabšibuɬ čəxʷ ʔu ti padac səpləl
+Can we get some salmonberry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi stagʷəd kupiɬ
+Can we get some black berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi gʷədbixʷ kupiɬ
+Can we get some strawberry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi sčiʔyu kupiɬ
+Can we get some huckleberry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi st̕ixʷib kupiɬ
+Can we get some salal berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi t̕aqa kupiɬ
+Can we get some berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi kupiɬ
+Can we get some douglas fir tea? gʷəʔabšibuɬ čəxʷ ʔu ti sčəbid tii
+Can we get some Kenyan tea? gʷəʔabšibuɬ čəxʷ ʔu ti kilidyada tii
+Can we get some spiced Kenyan tea? gʷəʔabšibuɬ čəxʷ ʔu ti kilidyaga basala tii
+Can we get some jasmine tea? gʷəʔabšibuɬ čəxʷ ʔu ti ǰasmid tii
+Can we get some cold black coffee? gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ x̌ibəč kupi
+Can we get some hot black coffee? gʷəʔabšibuɬ čəxʷ ʔu ti x̌ibəč kupi səsq̓ʷəl
+Can we get some cold coffee with milk? gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+Can we get some hot coffee with milk? gʷəʔabšibuɬ čəxʷ ʔu ti kupi səsq̓ʷəl yəxʷ ti sqəbu
+Can we get some cold coffee with milk and sugar?  gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can we get some cold black coffee with sugar?  gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+Can we get some hot coffee with milk and sugar? gʷəʔabšibuɬ čəxʷ ʔu ti kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can we get some hot black coffee with sugar?  gʷəʔabšibuɬ čəxʷ ʔu ti x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+Can we get some cold milk?  gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ sqəbu
+Can we get some hot milk? gʷəʔabšibuɬ čəxʷ ʔu ti sqəbu səsq̓ʷəl
+Can we get some milk?  gʷəʔabšibuɬ čəxʷ ʔu ti sqəbu
+Can we get some hot water? gʷəʔabšibuɬ čəxʷ ʔu ti qʷuʔ səsq̓ʷəl
+Can we get some hot water with lemon? gʷəʔabšibuɬ čəxʷ ʔu ti qʷuʔ səsq̓ʷəl yəxʷ ti limən
+Can we get some hot water with lemon and honey?  gʷəʔabšibuɬ čəxʷ ʔu ti qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+Can we get some cold water?  gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ qʷuʔ
+Can we get some cold water with lemon?  gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+Can we get some cold water with lemon and honey?  gʷəʔabšibuɬ čəxʷ ʔu ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+Can we get some water?  gʷəʔabšibuɬ čəxʷ ʔu ti qʷuʔ
+
+
+Can we get some more salmon?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa sʔuladxʷ
+Can we get some more salmon with a plain pastry?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa sʔuladxʷ yəxʷ ti səpləl
+Can we get some more salmon with a plain pastry and berries? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+Can we get some more smoked Salmon?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  talc̓
+Can we get some more smoked salmon with a plain pastry?   gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  talc̓ yəxʷ ti səpləl
+Can we get some more smoked salmon with a plain pastry and berries?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+Can we get some more fry-bread? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  c̓ix̌ səpləl
+Can we get some more  fry-bread with berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  c̓ix̌ səpləl ʔə kʷi kupiɬ
+Can we get some plain pastries? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  dəč̓u səpləl
+Can we get some more salmonberry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  stagʷəd kupiɬ
+Can we get some more black berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  gʷədbixʷ kupiɬ
+Can we get some more strawberry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  sčiʔyu kupiɬ
+Can we get some more huckleberry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  st̕ixʷib kupiɬ
+Can we get some more salal berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  t̕aqa kupiɬ
+Can we get some more berry jam? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  kupiɬ
+Can we get some more douglas fir tea? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  sčəbid tii
+Can we get some more Kenyan tea? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  kilidyada tii
+Can we get some more spiced Kenyan tea? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  kilidyaga basala tii
+Can we get some more jasmine tea? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ǰasmid tii
+Can we get some more cold black coffee? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ x̌ibəč kupi
+Can we get some more hot black coffee? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  x̌ibəč kupi səsq̓ʷəl
+Can we get some more cold coffee with milk? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+Can we get some more hot coffee with milk? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  kupi səsq̓ʷəl yəxʷ ti sqəbu
+Can we get some more cold coffee with milk and sugar?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can we get some more cold black coffee with sugar?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+Can we get some more hot coffee with milk and sugar? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+Can we get some more hot black coffee with sugar?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+Can we get some more cold milk?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ sqəbu
+Can we get some more hot milk? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  sqəbu səsq̓ʷəl
+Can we get some more milk?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  sqəbu
+Can we get some more hot water? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ səsq̓ʷəl
+Can we get some more hot water with lemon? gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ səsq̓ʷəl yəxʷ ti limən
+Can we get some more hot water with lemon and honey?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+Can we get some more cold water?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ qʷuʔ
+Can we get some more cold water with lemon?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+Can we get some more cold water with lemon and honey?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+Can we get some more water?  gʷəʔabšibuɬ čəxʷ ʔu kʷi ʔiɬqa  qʷuʔ
+
+
+
+
+Is there any salmon ? ʔa ʔu kʷi sʔuladxʷ
+Is there any smoked salmon ? ʔa ʔu kʷi talc̓
+Are there any black berries? ʔa ʔu kʷi gʷədbixʷ
+Are there any Strawberries ?  ʔa ʔu kʷi sčiʔyu
+Are there any Huckleberries ? ʔa ʔu kʷi st̕ixʷib
+Are there any Salal Berries? ʔa ʔu kʷi t̕aqa
+Is there any Jam? ʔa ʔu kʷi kupiɬ
+Is there any Douglas fir tea? ʔa ʔu kʷi sčəbid tii
+Is there any tea? ʔa ʔu kʷi tii
+Is there any Kenyan tea? ʔa ʔu kʷi kilidyaga tii
+Is there any Spiced tea? ʔa ʔu kʷi kilidyaga basala tii
+Is there any Jasmine tea? ʔa ʔu kʷi ǰasmid tii
+Is there any Coffee? ʔa ʔu kʷi kupi
+Is there any Milk?  ʔa ʔu kʷi sqəbu
+Is there any Sugar?  ʔa ʔu kʷi šukʷə
+Is there any Water? ʔa ʔu kʷi qʷuʔ
+Are there any pastries?  ʔa ʔu kʷi səpləl
+Is there any fry bread?  ʔa ʔu kʷi c̓ix̌ səpləl
+
+
+
+
+Can I get the check?  gʷəʔabšic čəxʷ ʔu ti taab
+Can we get the check? gʷəʔabšibuɬ čəxʷ ʔu ti taab
+I am ready to pay  ʔəsq̓ʷib čəd gʷədst̕asad
+We are ready to pay  ʔəsq̓ʷib čəɬ gʷəst̕asadčəɬ
+
+
+
+
+
+
+I would like the salmon  ʔəsx̌aƛ̕txʷ čəd ti sʔuladxʷ
+I would like the salmon with a plain pastry  ʔəsx̌aƛ̕txʷ čəd ti sʔuladxʷ yəxʷ ti səpləl
+I would like the salmon with a plain pastry and berries ʔəsx̌aƛ̕txʷ čəd sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+I would like smoked Salmon  ʔəsx̌aƛ̕txʷ čəd ti talc̓
+I would like the smoked salmon with a plain pastry   ʔəsx̌aƛ̕txʷ čəd ti talc̓ yəxʷ ti səpləl
+I would like smoked salmon with a plain pastry and berries  ʔəsx̌aƛ̕txʷ čəd ti talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+I would like fry-bread ʔəsx̌aƛ̕txʷ čəd ti c̓ix̌ səpləl
+I would like fry-bread with berry jam ʔəsx̌aƛ̕txʷ čəd ti c̓ix̌ səpləl ʔə kʷi kupiɬ
+I would like a plain pastry ʔəsx̌aƛ̕txʷ čəd ti dəč̓u səpləl
+I would like two plain pastries  ʔəsx̌aƛ̕txʷ čəd ti sali səpləl
+I would like three plain pastries ʔəsx̌aƛ̕txʷ čəd ti ɬixʷ səpləl
+I would like four plain pastries ʔəsx̌aƛ̕txʷ čəd ti buus səpləl
+I would like five plain pastries ʔəsx̌aƛ̕txʷ čəd ti cəlac səpləl
+I would like six plain pastries ʔəsx̌aƛ̕txʷ čəd ti dᶻəlači səpləl
+I would like seven plain pastries ʔəsx̌aƛ̕txʷ čəd ti c̓ukʷs səpləl
+I would like eight plain pastries ʔəsx̌aƛ̕txʷ čəd ti təqači səpləl
+I would like nine plain pastries ʔəsx̌aƛ̕txʷ čəd ti x̌ʷəl səpləl
+I would like ten plain pastries ʔəsx̌aƛ̕txʷ čəd ti padac səpləl
+I would like some salmonberry jam ʔəsx̌aƛ̕txʷ čəd kʷi stagʷəd kupiɬ
+I would like some black berry jam ʔəsx̌aƛ̕txʷ čəd kʷi gʷədbixʷ kupiɬ
+I would like some strawberry jam ʔəsx̌aƛ̕txʷ čəd kʷi sčiʔyu kupiɬ
+I would like some huckleberry jam ʔəsx̌aƛ̕txʷ čəd kʷi st̕ixʷib kupiɬ
+I would like some salal berry jam ʔəsx̌aƛ̕txʷ čəd kʷi t̕aqa kupiɬ
+I would like some berry jam ʔəsx̌aƛ̕txʷ čəd kʷi kupiɬ
+I would like some douglas fir tea ʔəsx̌aƛ̕txʷ čəd ti sčəbid tii
+I would like some Kenyan tea ʔəsx̌aƛ̕txʷ čəd ti kilidyada tii
+I would like some spiced Kenyan tea ʔəsx̌aƛ̕txʷ čəd ti kilidyaga basala tii
+I would like some jasmine tea ʔəsx̌aƛ̕txʷ čəd ti ǰasmid tii
+I would like some cold black coffee ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ x̌ibəč kupi
+I would like some hot black coffee ʔəsx̌aƛ̕txʷ čəd ti x̌ibəč kupi səsq̓ʷəl
+I would like some cold coffee with milk ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+I would like some hot coffee with milk ʔəsx̌aƛ̕txʷ čəd ti kupi səsq̓ʷəl yəxʷ ti sqəbu
+I would like some cold coffee with milk and sugar  ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+I would like some cold black coffee with sugar  ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+I would like some hot coffee with milk and sugar ʔəsx̌aƛ̕txʷ čəd ti kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+I would like some hot black coffee with sugar  ʔəsx̌aƛ̕txʷ čəd ti x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+I would like some cold milk  ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ sqəbu
+I would like some hot milk ʔəsx̌aƛ̕txʷ čəd ti sqəbu səsq̓ʷəl
+I would like some milk  ʔəsx̌aƛ̕txʷ čəd ti sqəbu
+I would like some hot water ʔəsx̌aƛ̕txʷ čəd ti qʷuʔ səsq̓ʷəl
+I would like some hot water with lemon ʔəsx̌aƛ̕txʷ čəd ti qʷuʔ səsq̓ʷəl yəxʷ ti limən
+I would like some hot water with lemon and honey  ʔəsx̌aƛ̕txʷ čəd ti qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+I would like some cold water  ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ qʷuʔ
+I would like some cold water with lemon  ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+I would like some cold water with lemon and honey  ʔəsx̌aƛ̕txʷ čəd ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+I would like some water  ʔəsx̌aƛ̕txʷ čəd ti qʷuʔ
+
+
+
+
+We would like the salmon  ʔəsx̌aƛ̕txʷ čəɬ ti sʔuladxʷ
+We would like the salmon with a plain pastry  ʔəsx̌aƛ̕txʷ čəɬ ti sʔuladxʷ yəxʷ ti səpləl
+We would like the salmon with a plain pastry and berries ʔəsx̌aƛ̕txʷ čəɬ sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+We would like smoked Salmon  ʔəsx̌aƛ̕txʷ čəɬ ti talc̓
+We would like the smoked salmon with a plain pastry   ʔəsx̌aƛ̕txʷ čəɬ ti talc̓ yəxʷ ti səpləl
+We would like smoked salmon with a plain pastry and berries  ʔəsx̌aƛ̕txʷ čəɬ ti talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+We would like fry-bread ʔəsx̌aƛ̕txʷ čəɬ ti c̓ix̌ səpləl
+We would like fry-bread with berry jam ʔəsx̌aƛ̕txʷ čəɬ ti c̓ix̌ səpləl ʔə kʷi kupiɬ
+We would like a plain pastry ʔəsx̌aƛ̕txʷ čəɬ ti dəč̓u səpləl
+We would like two plain pastries  ʔəsx̌aƛ̕txʷ čəɬ ti sali səpləl
+We would like three plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti ɬixʷ səpləl
+We would like four plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti buus səpləl
+We would like five plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti cəlac səpləl
+We would like six plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti dᶻəlači səpləl
+We would like seven plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti c̓ukʷs səpləl
+We would like eight plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti təqači səpləl
+We would like nine plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti x̌ʷəl səpləl
+We would like ten plain pastries ʔəsx̌aƛ̕txʷ čəɬ ti padac səpləl
+We would like some salmonberry jam ʔəsx̌aƛ̕txʷ čəɬ kʷi stagʷəd kupiɬ
+We would like some black berry jam ʔəsx̌aƛ̕txʷ čəɬ kʷi gʷədbixʷ kupiɬ
+We would like some strawberry jam ʔəsx̌aƛ̕txʷ čəɬ kʷi sčiʔyu kupiɬ
+We would like some huckleberry jam ʔəsx̌aƛ̕txʷ čəɬ kʷi st̕ixʷib kupiɬ
+We would like some salal berry jam ʔəsx̌aƛ̕txʷ čəɬ kʷi t̕aqa kupiɬ
+We would like some berry jam ʔəsx̌aƛ̕txʷ čəɬ kʷi kupiɬ
+We would like some douglas fir tea ʔəsx̌aƛ̕txʷ čəɬ ti sčəbid tii
+We would like some Kenyan tea ʔəsx̌aƛ̕txʷ čəɬ ti kilidyada tii
+We would like some spiced Kenyan tea ʔəsx̌aƛ̕txʷ čəɬ ti kilidyaga basala tii
+We would like some jasmine tea ʔəsx̌aƛ̕txʷ čəɬ ti ǰasmid tii
+We would like some cold black coffee ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ x̌ibəč kupi
+We would like some hot black coffee ʔəsx̌aƛ̕txʷ čəɬ ti x̌ibəč kupi səsq̓ʷəl
+We would like some cold coffee with milk ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+We would like some hot coffee with milk ʔəsx̌aƛ̕txʷ čəɬ ti kupi səsq̓ʷəl yəxʷ ti sqəbu
+We would like some cold coffee with milk and sugar  ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+We would like some cold black coffee with sugar  ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+We would like some hot coffee with milk and sugar ʔəsx̌aƛ̕txʷ čəɬ ti kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+We would like some hot black coffee with sugar  ʔəsx̌aƛ̕txʷ čəɬ ti x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+We would like some cold milk  ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ sqəbu
+We would like some hot milk ʔəsx̌aƛ̕txʷ čəɬ ti sqəbu səsq̓ʷəl
+We would like some milk  ʔəsx̌aƛ̕txʷ čəɬ ti sqəbu
+We would like some hot water ʔəsx̌aƛ̕txʷ čəɬ ti qʷuʔ səsq̓ʷəl
+We would like some hot water with lemon ʔəsx̌aƛ̕txʷ čəɬ ti qʷuʔ səsq̓ʷəl yəxʷ ti limən
+We would like some hot water with lemon and honey  ʔəsx̌aƛ̕txʷ čəɬ ti qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+We would like some cold water  ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ qʷuʔ
+We would like some cold water with lemon  ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+We would like some cold water with lemon and honey  ʔəsx̌aƛ̕txʷ čəɬ ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+We would like some water  ʔəsx̌aƛ̕txʷ čəɬ ti qʷuʔ
+
+
+She would like the salmon  ʔəsx̌aƛ̕txʷ ʔə ti sʔuladxʷ
+She would like the salmon with a plain pastry  ʔəsx̌aƛ̕txʷ ʔə ti sʔuladxʷ yəxʷ ti səpləl
+She would like the salmon with a plain pastry and berries ʔəsx̌aƛ̕txʷ ʔə ti sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+She would like smoked Salmon  ʔəsx̌aƛ̕txʷ ʔə ti talc̓
+She would like the smoked salmon with a plain pastry   ʔəsx̌aƛ̕txʷ ʔə ti talc̓ yəxʷ ti səpləl
+She would like smoked salmon with a plain pastry and berries  ʔəsx̌aƛ̕txʷ ʔə ti talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+She would like fry-bread ʔəsx̌aƛ̕txʷ ʔə ti c̓ix̌ səpləl
+She would like fry-bread with berry jam ʔəsx̌aƛ̕txʷ ʔə ti c̓ix̌ səpləl ʔə kʷi kupiɬ
+She would like a plain pastry ʔəsx̌aƛ̕txʷ ʔə ti dəč̓u səpləl
+She would like two plain pastries  ʔəsx̌aƛ̕txʷ ʔə ti sali səpləl
+She would like three plain pastries ʔəsx̌aƛ̕txʷ ʔə ti ɬixʷ səpləl
+She would like four plain pastries ʔəsx̌aƛ̕txʷ ʔə ti buus səpləl
+She would like five plain pastries ʔəsx̌aƛ̕txʷ ʔə ti cəlac səpləl
+She would like six plain pastries ʔəsx̌aƛ̕txʷ ʔə ti dᶻəlači səpləl
+She would like seven plain pastries ʔəsx̌aƛ̕txʷ ʔə ti c̓ukʷs səpləl
+She would like eight plain pastries ʔəsx̌aƛ̕txʷ ʔə ti təqači səpləl
+She would like nine plain pastries ʔəsx̌aƛ̕txʷ ʔə ti x̌ʷəl səpləl
+She would like ten plain pastries ʔəsx̌aƛ̕txʷ ʔə ti padac səpləl
+She would like some salmonberry jam ʔəsx̌aƛ̕txʷ ʔə kʷi stagʷəd kupiɬ
+She would like some black berry jam ʔəsx̌aƛ̕txʷ ʔə kʷi gʷədbixʷ kupiɬ
+She would like some strawberry jam ʔəsx̌aƛ̕txʷ ʔə kʷi sčiʔyu kupiɬ
+She would like some huckleberry jam ʔəsx̌aƛ̕txʷ ʔə kʷi st̕ixʷib kupiɬ
+She would like some salal berry jam ʔəsx̌aƛ̕txʷ ʔə kʷi t̕aqa kupiɬ
+She would like some berry jam ʔəsx̌aƛ̕txʷ ʔə kʷi kupiɬ
+She would like some douglas fir tea ʔəsx̌aƛ̕txʷ ʔə ti sčəbid tii
+She would like some Kenyan tea ʔəsx̌aƛ̕txʷ ʔə ti kilidyada tii
+She would like some spiced Kenyan tea ʔəsx̌aƛ̕txʷ ʔə ti kilidyaga basala tii
+She would like some jasmine tea ʔəsx̌aƛ̕txʷ ʔə ti ǰasmid tii
+She would like some cold black coffee ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ x̌ibəč kupi
+She would like some hot black coffee ʔəsx̌aƛ̕txʷ ʔə ti x̌ibəč kupi səsq̓ʷəl
+She would like some cold coffee with milk ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+She would like some hot coffee with milk ʔəsx̌aƛ̕txʷ ʔə ti kupi səsq̓ʷəl yəxʷ ti sqəbu
+She would like some cold coffee with milk and sugar  ʔəsx̌aƛ̕txʷ ʔə  ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+She would like some cold black coffee with sugar  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+She would like some hot coffee with milk and sugar ʔəsx̌aƛ̕txʷ ʔə ti kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+She would like some hot black coffee with sugar  ʔəsx̌aƛ̕txʷ ʔə ti x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+She would like some cold milk  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ sqəbu
+She would like some hot milk ʔəsx̌aƛ̕txʷ ʔə ti sqəbu səsq̓ʷəl
+She would like some milk  ʔəsx̌aƛ̕txʷ ʔə ti sqəbu
+She would like some hot water ʔəsx̌aƛ̕txʷ ʔə ti qʷuʔ səsq̓ʷəl
+She would like some hot water with lemon ʔəsx̌aƛ̕txʷ ʔə  ti qʷuʔ səsq̓ʷəl yəxʷ ti limən
+She would like some hot water with lemon and honey  ʔəsx̌aƛ̕txʷ ʔə  ti qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+She would like some cold water  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ qʷuʔ
+She would like some cold water with lemon  ʔəsx̌aƛ̕txʷ ʔə  ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+She would like some cold water with lemon and honey  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+She would like some water  ʔəsx̌aƛ̕txʷ ʔə ti qʷuʔ
+
+
+
+
+He would like the salmon  ʔəsx̌aƛ̕txʷ ʔə ti sʔuladxʷ
+He would like the salmon with a plain pastry  ʔəsx̌aƛ̕txʷ ʔə ti sʔuladxʷ yəxʷ ti səpləl
+He would like the salmon with a plain pastry and berries ʔəsx̌aƛ̕txʷ ʔə ti sʔuladxʷ yəxʷ ti səlpəl yəxʷ ti sq̓ʷəlaɬəd
+He would like smoked Salmon  ʔəsx̌aƛ̕txʷ ʔə ti talc̓
+He would like the smoked salmon with a plain pastry   ʔəsx̌aƛ̕txʷ ʔə ti talc̓ yəxʷ ti səpləl
+He would like smoked salmon with a plain pastry and berries  ʔəsx̌aƛ̕txʷ ʔə ti talc̓ yəxʷ ti səpləl yəxʷ ti sq̓ʷəlaɬəd
+He would like fry-bread ʔəsx̌aƛ̕txʷ ʔə ti c̓ix̌ səpləl
+He would like fry-bread with berry jam ʔəsx̌aƛ̕txʷ ʔə ti c̓ix̌ səpləl ʔə kʷi kupiɬ
+He would like a plain pastry ʔəsx̌aƛ̕txʷ ʔə ti dəč̓u səpləl
+He would like two plain pastries  ʔəsx̌aƛ̕txʷ ʔə ti sali səpləl
+He would like three plain pastries ʔəsx̌aƛ̕txʷ ʔə ti ɬixʷ səpləl
+He would like four plain pastries ʔəsx̌aƛ̕txʷ ʔə ti buus səpləl
+He would like five plain pastries ʔəsx̌aƛ̕txʷ ʔə ti cəlac səpləl
+He would like six plain pastries ʔəsx̌aƛ̕txʷ ʔə ti dᶻəlači səpləl
+He would like seven plain pastries ʔəsx̌aƛ̕txʷ ʔə ti c̓ukʷs səpləl
+He would like eight plain pastries ʔəsx̌aƛ̕txʷ ʔə ti təqači səpləl
+He would like nine plain pastries ʔəsx̌aƛ̕txʷ ʔə ti x̌ʷəl səpləl
+He would like ten plain pastries ʔəsx̌aƛ̕txʷ ʔə ti padac səpləl
+He would like some salmonberry jam ʔəsx̌aƛ̕txʷ ʔə kʷi stagʷəd kupiɬ
+He would like some black berry jam ʔəsx̌aƛ̕txʷ ʔə kʷi gʷədbixʷ kupiɬ
+He would like some strawberry jam ʔəsx̌aƛ̕txʷ ʔə kʷi sčiʔyu kupiɬ
+He would like some huckleberry jam ʔəsx̌aƛ̕txʷ ʔə kʷi st̕ixʷib kupiɬ
+He would like some salal berry jam ʔəsx̌aƛ̕txʷ ʔə kʷi t̕aqa kupiɬ
+He would like some berry jam ʔəsx̌aƛ̕txʷ ʔə kʷi kupiɬ
+He would like some douglas fir tea ʔəsx̌aƛ̕txʷ ʔə ti sčəbid tii
+He would like some Kenyan tea ʔəsx̌aƛ̕txʷ ʔə ti kilidyada tii
+He would like some spiced Kenyan tea ʔəsx̌aƛ̕txʷ ʔə ti kilidyaga basala tii
+He would like some jasmine tea ʔəsx̌aƛ̕txʷ ʔə ti ǰasmid tii
+He would like some cold black coffee ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ x̌ibəč kupi
+He would like some hot black coffee ʔəsx̌aƛ̕txʷ ʔə ti x̌ibəč kupi səsq̓ʷəl
+He would like some cold coffee with milk ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu
+He would like some hot coffee with milk ʔəsx̌aƛ̕txʷ ʔəti kupi səsq̓ʷəl yəxʷ ti sqəbu
+He would like some cold coffee with milk and sugar  ʔəsx̌aƛ̕txʷ ʔə  ti ƛ̕ux̌ʷ kupi yəxʷ ti sqəbu yəxʷ ti šukʷə
+He would like some cold black coffee with sugar  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ x̌ibəč kupi yəxʷ ti šukʷə
+He would like some hot coffee with milk and sugar ʔəsx̌aƛ̕txʷ ʔə ti kupi səsq̓ʷəl yəxʷ ti sqəbu yəxʷ ti šukʷə
+He would like some hot black coffee with sugar  ʔəsx̌aƛ̕txʷ ʔə ti x̌ibəč kupi səsq̓ʷəl yəxʷ ti šukʷə
+He would like some cold milk  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ sqəbu
+He would like some hot milk ʔəsx̌aƛ̕txʷ ʔə ti sqəbu səsq̓ʷəl
+He would like some milk  ʔəsx̌aƛ̕txʷ ʔə  ti sqəbu
+He would like some hot water ʔəsx̌aƛ̕txʷ ʔə ti qʷuʔ səsq̓ʷəl
+He would like some hot water with lemon ʔəsx̌aƛ̕txʷ ʔə  ti qʷuʔ səsq̓ʷəl yəxʷ ti limən
+He would like some hot water with lemon and honey  ʔəsx̌aƛ̕txʷ ʔə  ti qʷuʔ səsq̓ʷəl yəxʷ sp̓əc ʔə tə səbəd
+He would like some cold water  ʔəsx̌aƛ̕txʷ ʔə ti ƛ̕ux̌ʷ qʷuʔ
+He would like some cold water with lemon  ʔəsx̌aƛ̕txʷ ʔə  ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən
+He would like some cold water with lemon and honey  ʔəsx̌aƛ̕txʷ ʔə  ti ƛ̕ux̌ʷ qʷuʔ yəxʷ ti limən yəxʷ sp̓əc ʔə tə səbəd
+He would like some water  ʔəsx̌aƛ̕txʷ ʔə ti qʷuʔ
+
+
+Yes ʔi
+No xʷi
+Hot hudəb
+Cold ƛ̕ux̌ʷ
+Really hot  cay hudəb
+Really cold  cay ƛ̕ux̌ʷ
+I am ready  ʔəsq̓ʷib čəd
+We are ready  ʔəsq̓ʷib čəɬ
+Thankyou  hišəbə
+Thankyou hisk̓ʷu
+
+
+It smells good  haʔɬaləqəp
+It tastes good  haʔɬaləqəp
+It tastes very good  cay haʔɬaləqəp
+It smells very good  cay haʔɬaləqəp
+It smells bad   qəlaleqep
+It tastes bad    qəlaleqep
+It smells very bad   cay qəlaleqep
+It tastes very bad   cay qəlaleqep
+Who cooked this!?  gʷat kʷi ʔukʷukʷcut ʔə tiʔiɬ
+I cannot eat this!  gʷəʔəɬəd čəd!
+I love this food  dayəxʷ čəd x̌aƛ̕ ʔə tiiɬ sʔəɬəd
+It is too hot  hiqab ʔəsq̓ʷəl
+It is too cold   hiqab ƛ̕ux̌ʷ
+It is good  haʔɬ
+It is okay  ʔəsƛ̕ub
+It is bad  qələb
+It is too sweet  hiqab qʷagʷəb
+It is too salty  hiqab qa ƛ̕aɬəb
+
